@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050620002186EXKV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605062000218EK0YN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mujeres que hicieron Historia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pedro Bría</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Lapbook cooperativo sobre mujeres que hicieron historia en nuestro mundo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>not appropriate</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778090415067</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mou8bxr9-nwmg1q1o0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mou8bxr9-nwmg1q1o0</odePageId>
+      <odeBlockId>block-1778084997628-4c0jcq42x</odeBlockId>
+      <blockName>“Lapbook: mujeres que hicieron historia”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mou8bxr9-nwmg1q1o0</odePageId>
+          <odeBlockId>block-1778084997628-4c0jcq42x</odeBlockId>
+          <odeIdeviceId>idevice-1778084997625-cy0z9atiz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><strong>Metodología activa: ABP + producto final</strong></p>
+<p><strong>Centro de interés</strong></p>
+<p>Creación de <strong>lapbooks colaborativos</strong> sobre mujeres relevantes de la historia (científicas, artistas, activistas, escritoras…), integrando investigación, expresión escrita, creatividad plástica y exposición oral, culminando en una <strong>muestra final para la comunidad educativa</strong>.</p>
+<p><strong>Curso:</strong> 5º de Educación Primaria<br /><strong>Idioma:</strong> Castellano</p>
+<p><strong>Temporalización aproximada</strong></p>
+<p>3 semanas (12 sesiones aprox.)</p>
+<ul>
+<li><strong>Semana 1:</strong> Investigación y selección de mujeres</li>
+<li><strong>Semana 2:</strong> Diseño y creación del lapbook</li>
+<li><strong>Semana 3:</strong> Exposición, evaluación y reflexión final</li>
+</ul>
+<p><strong>Materia o materias implicadas</strong></p>
+<ul>
+<li>Educación Artística (Plástica)</li>
+<li>Lengua Castellana (expresión oral y escrita)</li>
+<li>Ciencias Sociales (contexto histórico)</li>
+<li>Atención Educativa (igualdad, valores, referentes femeninos)</li>
+</ul>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong></p>
+<p>El alumnado diseñará y elaborará en grupo <strong>4 lapbooks sobre mujeres que hicieron historia</strong>, trabajando:</p>
+<ul>
+<li>Búsqueda y selección de información relevante</li>
+<li>Comprensión lectora y síntesis</li>
+<li>Expresión escrita (biografías, datos clave, curiosidades)</li>
+<li>Creatividad artística (diseño del lapbook)</li>
+<li>Exposición oral</li>
+<li>Trabajo cooperativo y reparto de roles (investigador/a, diseñador/a, portavoz…)</li>
+<li>Uso de herramientas digitales (búsqueda de información, apoyo visual)</li>
+<li>Educación en valores (igualdad de género, referentes positivos)</li>
+</ul>
+<p>El producto final será una <strong>exposición de lapbooks</strong> en el aula o centro, donde cada grupo explicará su trabajo.</p>
+<p><strong>Justificación (basada en la rutina de pensamiento)</strong></p>
+<p>Esta SdA se diseña a partir del análisis crítico de la práctica docente digital (Rutina de pensamiento tipo Gibbs).</p>
+<ol>
+<li><strong> Problemas detectados (experiencia previa)</strong></li>
+</ol>
+<ul>
+<li>Escaso conocimiento del alumnado sobre mujeres relevantes en la historia</li>
+<li>Falta de referentes femeninos en contenidos escolares</li>
+<li>Dificultades en la selección y síntesis de información</li>
+<li>Uso pasivo de recursos digitales</li>
+<li>Baja implicación en tareas tradicionales</li>
+</ul>
+<ol start="2">
+<li><strong> Análisis</strong></li>
+</ol>
+<p>Se observa que:</p>
+<ul>
+<li>El alumnado aprende mejor cuando investiga y crea su propio material</li>
+<li>Las metodologías activas aumentan la motivación</li>
+<li>El trabajo cooperativo mejora la implicación</li>
+<li>Introducir referentes femeninos favorece la educación en igualdad</li>
+<li>El aprendizaje significativo se potencia cuando el producto final es real y visible</li>
+</ul>
+<ol start="3">
+<li><strong> Evaluación (qué ha funcionado y qué no)</strong></li>
+</ol>
+<p><strong>Funciona:</strong></p>
+<ul>
+<li>Aprendizaje basado en proyectos</li>
+<li>Actividades manipulativas (lapbook)</li>
+<li>Trabajo en grupo con roles definidos</li>
+<li>Exposición oral como producto final</li>
+</ul>
+<p><strong>No funciona:</strong></p>
+<ul>
+<li>Actividades memorísticas sin contexto</li>
+<li>Copiar información sin procesarla</li>
+<li>Falta de guía en la investigación</li>
+<li>Uso digital sin objetivo claro</li>
+</ul>
+<ol start="4">
+<li><strong> Conclusión (qué se necesita mejorar)</strong></li>
+</ol>
+<ul>
+<li>Diseñar tareas más motivadoras y conectadas con la realidad</li>
+<li>Fomentar el pensamiento crítico y la selección de información</li>
+<li>Integrar la igualdad de género en el aula de forma real</li>
+<li>Potenciar la autonomía del alumnado</li>
+<li>Dar sentido al uso de la tecnología</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778084997625-cy0z9atiz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><strong>Metodología activa: ABP + producto final</strong></p>\n<p><strong>Centro de interés</strong></p>\n<p>Creación de <strong>lapbooks colaborativos</strong> sobre mujeres relevantes de la historia (científicas, artistas, activistas, escritoras…), integrando investigación, expresión escrita, creatividad plástica y exposición oral, culminando en una <strong>muestra final para la comunidad educativa</strong>.</p>\n<p><strong>Curso:</strong> 5º de Educación Primaria<br /><strong>Idioma:</strong> Castellano</p>\n<p><strong>Temporalización aproximada</strong></p>\n<p>3 semanas (12 sesiones aprox.)</p>\n<ul>\n<li><strong>Semana 1:</strong> Investigación y selección de mujeres</li>\n<li><strong>Semana 2:</strong> Diseño y creación del lapbook</li>\n<li><strong>Semana 3:</strong> Exposición, evaluación y reflexión final</li>\n</ul>\n<p><strong>Materia o materias implicadas</strong></p>\n<ul>\n<li>Educación Artística (Plástica)</li>\n<li>Lengua Castellana (expresión oral y escrita)</li>\n<li>Ciencias Sociales (contexto histórico)</li>\n<li>Atención Educativa (igualdad, valores, referentes femeninos)</li>\n</ul>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong></p>\n<p>El alumnado diseñará y elaborará en grupo <strong>4 lapbooks sobre mujeres que hicieron historia</strong>, trabajando:</p>\n<ul>\n<li>Búsqueda y selección de información relevante</li>\n<li>Comprensión lectora y síntesis</li>\n<li>Expresión escrita (biografías, datos clave, curiosidades)</li>\n<li>Creatividad artística (diseño del lapbook)</li>\n<li>Exposición oral</li>\n<li>Trabajo cooperativo y reparto de roles (investigador/a, diseñador/a, portavoz…)</li>\n<li>Uso de herramientas digitales (búsqueda de información, apoyo visual)</li>\n<li>Educación en valores (igualdad de género, referentes positivos)</li>\n</ul>\n<p>El producto final será una <strong>exposición de lapbooks</strong> en el aula o centro, donde cada grupo explicará su trabajo.</p>\n<p><strong>Justificación (basada en la rutina de pensamiento)</strong></p>\n<p>Esta SdA se diseña a partir del análisis crítico de la práctica docente digital (Rutina de pensamiento tipo Gibbs).</p>\n<ol>\n<li><strong> Problemas detectados (experiencia previa)</strong></li>\n</ol>\n<ul>\n<li>Escaso conocimiento del alumnado sobre mujeres relevantes en la historia</li>\n<li>Falta de referentes femeninos en contenidos escolares</li>\n<li>Dificultades en la selección y síntesis de información</li>\n<li>Uso pasivo de recursos digitales</li>\n<li>Baja implicación en tareas tradicionales</li>\n</ul>\n<ol start=\"2\">\n<li><strong> Análisis</strong></li>\n</ol>\n<p>Se observa que:</p>\n<ul>\n<li>El alumnado aprende mejor cuando investiga y crea su propio material</li>\n<li>Las metodologías activas aumentan la motivación</li>\n<li>El trabajo cooperativo mejora la implicación</li>\n<li>Introducir referentes femeninos favorece la educación en igualdad</li>\n<li>El aprendizaje significativo se potencia cuando el producto final es real y visible</li>\n</ul>\n<ol start=\"3\">\n<li><strong> Evaluación (qué ha funcionado y qué no)</strong></li>\n</ol>\n<p><strong>Funciona:</strong></p>\n<ul>\n<li>Aprendizaje basado en proyectos</li>\n<li>Actividades manipulativas (lapbook)</li>\n<li>Trabajo en grupo con roles definidos</li>\n<li>Exposición oral como producto final</li>\n</ul>\n<p><strong>No funciona:</strong></p>\n<ul>\n<li>Actividades memorísticas sin contexto</li>\n<li>Copiar información sin procesarla</li>\n<li>Falta de guía en la investigación</li>\n<li>Uso digital sin objetivo claro</li>\n</ul>\n<ol start=\"4\">\n<li><strong> Conclusión (qué se necesita mejorar)</strong></li>\n</ol>\n<ul>\n<li>Diseñar tareas más motivadoras y conectadas con la realidad</li>\n<li>Fomentar el pensamiento crítico y la selección de información</li>\n<li>Integrar la igualdad de género en el aula de forma real</li>\n<li>Potenciar la autonomía del alumnado</li>\n<li>Dar sentido al uso de la tecnología</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778085155866-7xh6ko4tj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778085155866-7xh6ko4tj</odePageId>
+      <odeBlockId>block-1778085626227-plzdotfm0</odeBlockId>
+      <blockName>Derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778085155866-7xh6ko4tj</odePageId>
+          <odeBlockId>block-1778085626227-plzdotfm0</odeBlockId>
+          <odeIdeviceId>idevice-1778085626225-e6dcp91jo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778085626225-e6dcp91jo" title="" href="{{context_path}}/content/resources/Derechos digitales.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Derechos digitales.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085626225-e6dcp91jo","img_0":{"img":"blob:app://localhost/c80fafbb-698b-45b9-b373-ed9e8098f638","thumbnail":"blob:app://localhost/c80fafbb-698b-45b9-b373-ed9e8098f638","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086087440-fhipn7l4x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final (Herramientas)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final (Herramientas)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086087440-fhipn7l4x</odePageId>
+      <odeBlockId>block-1778086092631-qicen7tdw</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086087440-fhipn7l4x</odePageId>
+          <odeBlockId>block-1778086092631-qicen7tdw</odeBlockId>
+          <odeIdeviceId>idevice-1778086092630-gjlratnh8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Lapbook de mujeres que hicieron historia.</strong><br />En este proyecto vamos a crear un lapbook colaborativo sobre cuatro mujeres que cambiaron el mundo. No va a ser solo un trabajo… va a ser una especie de “mini museo” hecho por vosotros.</p>
+<p>Cada grupo trabajará sobre una de estas figuras increíbles:</p>
+<p>Marie Curie: científica que revolucionó la medicina y ganó dos premios Nobel.<br />Juana de Arco: joven valiente que lideró un ejército con solo 17 años.<br />Isabel II de Castilla: reina clave en la historia de España y en el viaje de Colón.<br />Cleopatra: una líder inteligente y estratégica en un mundo dominado por hombres.<br /> <br /><br />Cada lapbook será visual, creativo y lleno de información importante:</p>
+<p>Biografía (quién era y por qué es importante)<br />Datos curiosos (cosas que flipan)<br />Contexto histórico (cuándo y dónde vivió)<br />Frases o ideas clave<br />Diseño creativo (ventanas, desplegables, dibujos, colores…)<br /> <br />Exposición final:<br />Cuando lo tengáis terminado, lo presentaréis al resto de la clase. Explicaréis vuestra mujer histórica. Enseñaréis vuestro lapbook, Resolveréis dudas, Y demostraréis que sabéis de verdad de lo que habláis.</p>
+<p><br /><strong>1. Comunicación interna del profesorado</strong></p>
+<p><strong>Microsoft Teams / Slack</strong></p>
+<p>Segmentación: Permite crear canales específicos por departamentos o niveles, evitando que el profesor de Matemáticas reciba notificaciones sobre la excursión de Educación Física.<br />Profesionalismo: Mantiene el número de teléfono privado y centraliza los archivos en un solo lugar, a diferencia del correo electrónico, donde los documentos suelen perderse en hilos infinitos.<br /> <br /><strong>2. Relación entre profesorado y alumnado</strong></p>
+<p><strong> Google Classroom</strong></p>
+<p>Accesibilidad: Su interfaz es limpia y permite a los alumnos entregar tareas con un par de clics desde el móvil.<br />Integración: La facilidad para incluir vídeos, encuestas y realizar videoconferencias sin salir del entorno agiliza enormemente el proceso de enseñanza-aprendizaje.<br /> <br /><strong>3. Contacto con las familias</strong></p>
+<p> iPasen</p>
+<p>Institucionalidad: Al ser la plataforma de la Junta de Andalucía, ofrece una seguridad jurídica que ninguna otra app posee.<br />Transparencia: El hecho de que las familias puedan consultar en tiempo real las faltas, el horario y las calificaciones directamente desde la fuente oficial evita malentendidos y reduce la carga administrativa de los tutores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086092630-gjlratnh8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Lapbook de mujeres que hicieron historia.</strong><br />En este proyecto vamos a crear un lapbook colaborativo sobre cuatro mujeres que cambiaron el mundo. No va a ser solo un trabajo… va a ser una especie de “mini museo” hecho por vosotros.</p>\n<p>Cada grupo trabajará sobre una de estas figuras increíbles:</p>\n<p>Marie Curie: científica que revolucionó la medicina y ganó dos premios Nobel.<br />Juana de Arco: joven valiente que lideró un ejército con solo 17 años.<br />Isabel II de Castilla: reina clave en la historia de España y en el viaje de Colón.<br />Cleopatra: una líder inteligente y estratégica en un mundo dominado por hombres.<br /> <br /><br />Cada lapbook será visual, creativo y lleno de información importante:</p>\n<p>Biografía (quién era y por qué es importante)<br />Datos curiosos (cosas que flipan)<br />Contexto histórico (cuándo y dónde vivió)<br />Frases o ideas clave<br />Diseño creativo (ventanas, desplegables, dibujos, colores…)<br /> <br />Exposición final:<br />Cuando lo tengáis terminado, lo presentaréis al resto de la clase. Explicaréis vuestra mujer histórica. Enseñaréis vuestro lapbook, Resolveréis dudas, Y demostraréis que sabéis de verdad de lo que habláis.</p>\n<p><br /><strong>1. Comunicación interna del profesorado</strong></p>\n<p><strong>Microsoft Teams / Slack</strong></p>\n<p>Segmentación: Permite crear canales específicos por departamentos o niveles, evitando que el profesor de Matemáticas reciba notificaciones sobre la excursión de Educación Física.<br />Profesionalismo: Mantiene el número de teléfono privado y centraliza los archivos en un solo lugar, a diferencia del correo electrónico, donde los documentos suelen perderse en hilos infinitos.<br /> <br /><strong>2. Relación entre profesorado y alumnado</strong></p>\n<p><strong> Google Classroom</strong></p>\n<p>Accesibilidad: Su interfaz es limpia y permite a los alumnos entregar tareas con un par de clics desde el móvil.<br />Integración: La facilidad para incluir vídeos, encuestas y realizar videoconferencias sin salir del entorno agiliza enormemente el proceso de enseñanza-aprendizaje.<br /> <br /><strong>3. Contacto con las familias</strong></p>\n<p> iPasen</p>\n<p>Institucionalidad: Al ser la plataforma de la Junta de Andalucía, ofrece una seguridad jurídica que ninguna otra app posee.<br />Transparencia: El hecho de que las familias puedan consultar en tiempo real las faltas, el horario y las calificaciones directamente desde la fuente oficial evita malentendidos y reduce la carga administrativa de los tutores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086601863-firlr6j18</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086601863-firlr6j18</odePageId>
+      <odeBlockId>block-1778086676146-yjhvuoax1</odeBlockId>
+      <blockName>Enlaces</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086601863-firlr6j18</odePageId>
+          <odeBlockId>block-1778086676146-yjhvuoax1</odeBlockId>
+          <odeIdeviceId>idevice-1778086676144-oo8cs3gko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Symbaloo</p>
+<p><a href="https://www.symbaloo.com/home/mix/13eOcXLXe0%20 %20 %20 " title="">https://www.symbaloo.com/home/mix/13eOcXLXe0      </a></p>
+<p>Padled</p>
+<p><a href="https://padlet.com/pbriram092/mujeres-de-la-historia-bnc6x8ou08cr2q03" title="">https://padlet.com/pbriram092/mujeres-de-la-historia-bnc6x8ou08cr2q03</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086676144-oo8cs3gko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Symbaloo</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eOcXLXe0%20 %20 %20 \" title=\"\">https://www.symbaloo.com/home/mix/13eOcXLXe0      </a></p>\n<p>Padled</p>\n<p><a href=\"https://padlet.com/pbriram092/mujeres-de-la-historia-bnc6x8ou08cr2q03\" title=\"\">https://padlet.com/pbriram092/mujeres-de-la-historia-bnc6x8ou08cr2q03</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086785462-v2dtn7qdl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea de tiempo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea de tiempo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086785462-v2dtn7qdl</odePageId>
+      <odeBlockId>block-1778086795142-ua9cgjzsp</odeBlockId>
+      <blockName>Enlace</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086785462-v2dtn7qdl</odePageId>
+          <odeBlockId>block-1778086795142-ua9cgjzsp</odeBlockId>
+          <odeIdeviceId>idevice-1778086795140-8i5kojibo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://view.genially.com/69f320d6eeebd677d95ad8aa" title="">https://view.genially.com/69f320d6eeebd677d95ad8aa</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086795140-8i5kojibo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://view.genially.com/69f320d6eeebd677d95ad8aa\" title=\"\">https://view.genially.com/69f320d6eeebd677d95ad8aa</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086907505-7egy10295</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086907505-7egy10295</odePageId>
+      <odeBlockId>block-1778086912102-1vypjo8xt</odeBlockId>
+      <blockName>Enlace</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086907505-7egy10295</odePageId>
+          <odeBlockId>block-1778086912102-1vypjo8xt</odeBlockId>
+          <odeIdeviceId>idevice-1778086912100-lnc6xj67q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1ZRG3cv6ukxOqo-PTyBZHRLZzZgu6rXZw0W-7tiANGRU/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">https://docs.google.com/document/d/1ZRG3cv6ukxOqo-PTyBZHRLZzZgu6rXZw0W-7tiANGRU/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086912100-lnc6xj67q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1ZRG3cv6ukxOqo-PTyBZHRLZzZgu6rXZw0W-7tiANGRU/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">https://docs.google.com/document/d/1ZRG3cv6ukxOqo-PTyBZHRLZzZgu6rXZw0W-7tiANGRU/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778087089927-ssv3486mq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778087089927-ssv3486mq</odePageId>
+      <odeBlockId>block-1778087210571-6ugsu4ryf</odeBlockId>
+      <blockName>Evaluación del Lapbook: “Mujeres que hicieron historia”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778087089927-ssv3486mq</odePageId>
+          <odeBlockId>block-1778087210571-6ugsu4ryf</odeBlockId>
+          <odeIdeviceId>idevice-1778087210570-a6l4zy19n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>Criterios de Evaluación evaluables:</p>
+<p>4.1.b. Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad</p>
+<p>4.2.b. Participar activamente en el proceso cooperativo de producciones culturales y artísticas, de forma creativa y respetuosa y utilizando elementos de diferentes lenguajes y técnicas artísticas.</p>
+<p>INSTRUMENTOS DE EVALUACIÓN</p>
+<p>1-OBSERVACIÓN SISTEMÁTICA.</p>
+<p>¿Qué evalúa?</p>
+<p>Participación activa en el grupo <br />Asunción de roles cooperativos <br />Respeto a turnos y opiniones <br />Implicación en tareas manuales y digitales <br />Directamente vinculado al criterio de evaluación 4.2.b</p>
+<p>Recogida de datos</p>
+<p>Registro anecdótico del docente <br />Escala de valoración rápida (tipo: siempre / a veces / nunca) <br />Observación en: Sesiones de investigación <br />Trabajo cooperativo <br />Elaboración del lapbook <br />Análisis de datos:</p>
+<p>Identificación de: </p>
+<p>Alumnado pasivo <br />Liderazgos excesivos <br />Conflictos grupales <br />Diferencias de ritmo → tareas multinivel (DUA)</p>
+<p>2- LISTA DE COTEJO.</p>
+<p>Evalúa el producto final: Lapbook : Relacionado con CE 4.1.b</p>
+<p>Incluye información relevante</p>
+<p> <br />Presenta estructura organizada</p>
+<p> <br />Contiene elementos interactivos (solapas, ruedas…)</p>
+<p> <br />Uso creativo de materiales</p>
+<p> <br />Claridad visual</p>
+<p> <br />Si / No<br />Si / No<br />Si / No<br />Si / No<br />Si / No<br />Recogida de datos: Checklist</p>
+<p> <br />Si<br />No<br />Incluye línea del tiempo<br /> <br /> <br />Uso de elementos interactivos<br /> <br /> <br />Contiene curiosidades<br /> <br /> <br />Presentación cuidada<br /> <br /> <br />Análisis mediante: Conteo de ítems logrados, comparación entre grupos, detección de carencias comunes.</p>
+<p>3- RÚBRICA ATRAVÉS DE SENECA.</p>
+<p>Tipo de Rubrica: holística cualitativa.</p>
+<p> Evaluación competencial global</p>
+<p> <br />4.1.b (Planificación)<br />4.2.b (Participación)<br />Excelente<br />Organiza, distribuye roles y mejora el producto<br />Participa activamente, respeta y aporta ideas<br />Adecuado<br /> <br /> </p>
+<p>Planifica con ayuda<br /> <br /> <br /> </p>
+<p>Participa de forma correcta<br /> <br />Básico<br /> <br /> </p>
+<p>Planificación poco clara<br /> <br /> <br /> </p>
+<p>Participación irregular<br /> <br />Insuficiente<br /> <br /> </p>
+<p>No colabora<br /> <br /> <br /> </p>
+<p>No participa<br /> <br />Recogida de datos: Integración en Séneca y evaluación por criterios. (Observación + producto + exposición).</p>
+<p>Análisis: evaluación por niveles de logro, relación con competencias clave, informe individualizado. </p>
+<p>4- AUTOEVALUACIÓN DEL ALUMNADO.</p>
+<p>Cuestionario reflexivo:</p>
+<p>-¿He participado en mi grupo?</p>
+<p>-¿He respetado a mis compañeros?</p>
+<p>- ¿He aportado ideas?</p>
+<p>- ¿Qué puedo mejorar?</p>
+<p>5- AUTOEVALUACIÓN DEL DOCENTE.</p>
+<p>Diario docente + escala de reflexión</p>
+<p>·         Mejorar la práctica docente</p>
+<p>·         Ajustar tiempos y tareas</p>
+<p>·         Detectar fallos metodológicos</p>
+<p>POSIBLES VARIABLES</p>
+<p>- Alumno que no participa: asignar rol concreto.</p>
+<p>- Conflictos: mediación + dinámica cooperativa.</p>
+<p>- Diferencias de ritmo: tareas multinivel (DUA).</p>
+<p>- Grupo creativo pero desorganizado: refuerzo en planificación </p>
+<p>- Grupo correcto pero poco creativo: fomentar expresión artística.</p>
+<p>- Diferente implicación dentro del grupo: combinación con observación sistemática </p>
+<p>- Alumnado con NEAE: adaptación de niveles de logro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778087210570-a6l4zy19n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>Criterios de Evaluación evaluables:</p>\n<p>4.1.b. Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad</p>\n<p>4.2.b. Participar activamente en el proceso cooperativo de producciones culturales y artísticas, de forma creativa y respetuosa y utilizando elementos de diferentes lenguajes y técnicas artísticas.</p>\n<p>INSTRUMENTOS DE EVALUACIÓN</p>\n<p>1-OBSERVACIÓN SISTEMÁTICA.</p>\n<p>¿Qué evalúa?</p>\n<p>Participación activa en el grupo <br />Asunción de roles cooperativos <br />Respeto a turnos y opiniones <br />Implicación en tareas manuales y digitales <br />Directamente vinculado al criterio de evaluación 4.2.b</p>\n<p>Recogida de datos</p>\n<p>Registro anecdótico del docente <br />Escala de valoración rápida (tipo: siempre / a veces / nunca) <br />Observación en: Sesiones de investigación <br />Trabajo cooperativo <br />Elaboración del lapbook <br />Análisis de datos:</p>\n<p>Identificación de: </p>\n<p>Alumnado pasivo <br />Liderazgos excesivos <br />Conflictos grupales <br />Diferencias de ritmo → tareas multinivel (DUA)</p>\n<p>2- LISTA DE COTEJO.</p>\n<p>Evalúa el producto final: Lapbook : Relacionado con CE 4.1.b</p>\n<p>Incluye información relevante</p>\n<p> <br />Presenta estructura organizada</p>\n<p> <br />Contiene elementos interactivos (solapas, ruedas…)</p>\n<p> <br />Uso creativo de materiales</p>\n<p> <br />Claridad visual</p>\n<p> <br />Si / No<br />Si / No<br />Si / No<br />Si / No<br />Si / No<br />Recogida de datos: Checklist</p>\n<p> <br />Si<br />No<br />Incluye línea del tiempo<br /> <br /> <br />Uso de elementos interactivos<br /> <br /> <br />Contiene curiosidades<br /> <br /> <br />Presentación cuidada<br /> <br /> <br />Análisis mediante: Conteo de ítems logrados, comparación entre grupos, detección de carencias comunes.</p>\n<p>3- RÚBRICA ATRAVÉS DE SENECA.</p>\n<p>Tipo de Rubrica: holística cualitativa.</p>\n<p> Evaluación competencial global</p>\n<p> <br />4.1.b (Planificación)<br />4.2.b (Participación)<br />Excelente<br />Organiza, distribuye roles y mejora el producto<br />Participa activamente, respeta y aporta ideas<br />Adecuado<br /> <br /> </p>\n<p>Planifica con ayuda<br /> <br /> <br /> </p>\n<p>Participa de forma correcta<br /> <br />Básico<br /> <br /> </p>\n<p>Planificación poco clara<br /> <br /> <br /> </p>\n<p>Participación irregular<br /> <br />Insuficiente<br /> <br /> </p>\n<p>No colabora<br /> <br /> <br /> </p>\n<p>No participa<br /> <br />Recogida de datos: Integración en Séneca y evaluación por criterios. (Observación + producto + exposición).</p>\n<p>Análisis: evaluación por niveles de logro, relación con competencias clave, informe individualizado. </p>\n<p>4- AUTOEVALUACIÓN DEL ALUMNADO.</p>\n<p>Cuestionario reflexivo:</p>\n<p>-¿He participado en mi grupo?</p>\n<p>-¿He respetado a mis compañeros?</p>\n<p>- ¿He aportado ideas?</p>\n<p>- ¿Qué puedo mejorar?</p>\n<p>5- AUTOEVALUACIÓN DEL DOCENTE.</p>\n<p>Diario docente + escala de reflexión</p>\n<p>·         Mejorar la práctica docente</p>\n<p>·         Ajustar tiempos y tareas</p>\n<p>·         Detectar fallos metodológicos</p>\n<p>POSIBLES VARIABLES</p>\n<p>- Alumno que no participa: asignar rol concreto.</p>\n<p>- Conflictos: mediación + dinámica cooperativa.</p>\n<p>- Diferencias de ritmo: tareas multinivel (DUA).</p>\n<p>- Grupo creativo pero desorganizado: refuerzo en planificación </p>\n<p>- Grupo correcto pero poco creativo: fomentar expresión artística.</p>\n<p>- Diferente implicación dentro del grupo: combinación con observación sistemática </p>\n<p>- Alumnado con NEAE: adaptación de niveles de logro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778089930709-4jjesb1ia</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778089930709-4jjesb1ia</odePageId>
+      <odeBlockId>block-1778090019090-gemluprix</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778089930709-4jjesb1ia</odePageId>
+          <odeBlockId>block-1778090019090-gemluprix</odeBlockId>
+          <odeIdeviceId>idevice-1778090019088-nvwiwzo6h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong> Descripción general</strong><br />Esta Situación de Aprendizaje se basa en la creación de un lapbook colaborativo sobre mujeres que hicieron historia, dirigida a 5º de Educación Primaria.</p>
+<p>El alumnado investiga, selecciona información relevante y construye un producto final manipulativo que será expuesto al grupo clase, desarrollando competencias clave a través de metodologías activas (ABP).</p>
+<p><strong> Relación entre tareas y criterios de evaluación</strong><br />Tarea del proyecto<br />Descripción<br />Criterios de evaluación (LOMLOE)<br />Instrumento de evaluación</p>
+<p><strong>Investigación</strong><br />Búsqueda de información sobre la mujer asignada<br />Comprender y seleccionar información relevante de diferentes fuentes<br />Observación sistemática + lista de cotejo</p>
+<p><br /><strong>Organización de la información</strong><br />Elaboración de biografía, datos clave y curiosidades<br />Producir textos escritos coherentes y estructurados<br />Rúbrica (expresión escrita)</p>
+<p><br /><strong>Diseño del lapbook</strong><br />Creación del material manipulativo<br />Desarrollar la creatividad y comunicar información de forma visual<br />Lista de cotejo</p>
+<p><br /><strong>Trabajo cooperativo</strong><br />Reparto de roles y trabajo en grupo<br />Participar activamente respetando normas y roles<br />Observación sistemática</p>
+<p><br /><strong>Exposición oral</strong><br />Presentación del lapbook al grupo<br />Expresarse oralmente con claridad y adecuación<br />Rúbrica (expresión oral)<br /> <br /><strong>Competencias específicas </strong><br />Lengua Castellana:Comprender, interpretar y producir textos orales y escritos<br />Educación Artística:Expresar ideas y emociones a través de producciones plásticas<br />Ciencias Sociales:Conocer hechos relevantes de la historia y sus protagonistas<br />Competencia digital:Buscar, seleccionar y usar información de forma segura<br />Competencia personal, social y de aprender a aprender:Trabajar de forma cooperativa y reflexionar sobre el propio aprendizaje<br /> </p>
+<p><strong>Saberes básicos</strong><br />Biografías y textos informativos<br />Igualdad de género y referentes históricos<br />Técnicas plásticas (recorte, plegado, diseño visual)<br />Estrategias de búsqueda de información<br />Normas de interacción en grupo<br /> <br /><strong>Observaciones metodológicas</strong><br />Es clave guiar la investigación (no vale soltarles Google y ya)<br />Proporcionar plantillas o estructuras para facilitar la organización<br />Fomentar roles claros dentro del grupo (líder, secretario, diseñador…)<br />Supervisar el uso responsable de la tecnología<br />Dar importancia al proceso, no solo al resultado final<br /> <br /><strong>Recomendaciones para el profesorado</strong><br />Empieza mostrando un ejemplo de lapbook (engancha mucho)<br />Relaciona el proyecto con fechas clave (ej: Día de la Mujer)<br />Refuerza continuamente la importancia de los referentes femeninos<br />Usa evaluación formativa (feedback constante, no solo nota final)<br />Adapta tareas para alumnado con NEAE (simplificación de textos, apoyos visuales…)<br /> <br /><strong>Atención a la diversidad (DUA)</strong><br />Textos adaptados (lectura fácil)<br /> Opciones de expresión (dibujos, esquemas, audio…)<br />Apoyo entre iguales (aprendizaje cooperativo)<br />Evaluación flexible (proceso + producto)<br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778090019088-nvwiwzo6h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong> Descripción general</strong><br />Esta Situación de Aprendizaje se basa en la creación de un lapbook colaborativo sobre mujeres que hicieron historia, dirigida a 5º de Educación Primaria.</p>\n<p>El alumnado investiga, selecciona información relevante y construye un producto final manipulativo que será expuesto al grupo clase, desarrollando competencias clave a través de metodologías activas (ABP).</p>\n<p><strong> Relación entre tareas y criterios de evaluación</strong><br />Tarea del proyecto<br />Descripción<br />Criterios de evaluación (LOMLOE)<br />Instrumento de evaluación</p>\n<p><strong>Investigación</strong><br />Búsqueda de información sobre la mujer asignada<br />Comprender y seleccionar información relevante de diferentes fuentes<br />Observación sistemática + lista de cotejo</p>\n<p><br /><strong>Organización de la información</strong><br />Elaboración de biografía, datos clave y curiosidades<br />Producir textos escritos coherentes y estructurados<br />Rúbrica (expresión escrita)</p>\n<p><br /><strong>Diseño del lapbook</strong><br />Creación del material manipulativo<br />Desarrollar la creatividad y comunicar información de forma visual<br />Lista de cotejo</p>\n<p><br /><strong>Trabajo cooperativo</strong><br />Reparto de roles y trabajo en grupo<br />Participar activamente respetando normas y roles<br />Observación sistemática</p>\n<p><br /><strong>Exposición oral</strong><br />Presentación del lapbook al grupo<br />Expresarse oralmente con claridad y adecuación<br />Rúbrica (expresión oral)<br /> <br /><strong>Competencias específicas </strong><br />Lengua Castellana:Comprender, interpretar y producir textos orales y escritos<br />Educación Artística:Expresar ideas y emociones a través de producciones plásticas<br />Ciencias Sociales:Conocer hechos relevantes de la historia y sus protagonistas<br />Competencia digital:Buscar, seleccionar y usar información de forma segura<br />Competencia personal, social y de aprender a aprender:Trabajar de forma cooperativa y reflexionar sobre el propio aprendizaje<br /> </p>\n<p><strong>Saberes básicos</strong><br />Biografías y textos informativos<br />Igualdad de género y referentes históricos<br />Técnicas plásticas (recorte, plegado, diseño visual)<br />Estrategias de búsqueda de información<br />Normas de interacción en grupo<br /> <br /><strong>Observaciones metodológicas</strong><br />Es clave guiar la investigación (no vale soltarles Google y ya)<br />Proporcionar plantillas o estructuras para facilitar la organización<br />Fomentar roles claros dentro del grupo (líder, secretario, diseñador…)<br />Supervisar el uso responsable de la tecnología<br />Dar importancia al proceso, no solo al resultado final<br /> <br /><strong>Recomendaciones para el profesorado</strong><br />Empieza mostrando un ejemplo de lapbook (engancha mucho)<br />Relaciona el proyecto con fechas clave (ej: Día de la Mujer)<br />Refuerza continuamente la importancia de los referentes femeninos<br />Usa evaluación formativa (feedback constante, no solo nota final)<br />Adapta tareas para alumnado con NEAE (simplificación de textos, apoyos visuales…)<br /> <br /><strong>Atención a la diversidad (DUA)</strong><br />Textos adaptados (lectura fácil)<br /> Opciones de expresión (dibujos, esquemas, audio…)<br />Apoyo entre iguales (aprendizaje cooperativo)<br />Evaluación flexible (proceso + producto)<br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778088789226-f4ispeiju</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Creditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778088789226-f4ispeiju</odePageId>
+      <odeBlockId>block-1778089662644-er9noublk</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778088789226-f4ispeiju</odePageId>
+          <odeBlockId>block-1778089662644-er9noublk</odeBlockId>
+          <odeIdeviceId>idevice-1778089662643-ouo7dnvyf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Mujeres que hicieron Historia</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Lapbook cooperativo sobre mujeres que hicieron historia en nuestro mundo</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pedro Bría</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">No procede</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
